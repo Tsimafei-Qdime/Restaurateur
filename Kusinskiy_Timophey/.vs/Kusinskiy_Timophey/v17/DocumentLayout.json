@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|d:\\timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u043A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043E\u043E\u043F\\kusinskiy_timophey\\kusinskiy_timophey\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|d:\\timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u043A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043E\u043E\u043F\\kusinskiy_timophey\\kusinskiy_timophey\\info.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\info.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CoreLibarary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Kusinskiy_Timophey||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|d:\\timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u043A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043E\u043E\u043F\\kusinskiy_timophey\\corelibarary\\repositories\\sqlusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\repositories\\sqlusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\repositories\\sqlmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\repositories\\sqlmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\registration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\registration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\resourses\\brushes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\resourses\\brushes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\repositories\\sqlbookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\repositories\\sqlbookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\interfaces\\ibookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\interfaces\\ibookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\resourses\\core.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\resourses\\core.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\bookings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\bookings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\services\\bookingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\services\\bookingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\interfaces\\ibookingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\interfaces\\ibookingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\reviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\reviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\services\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\services\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\corelibarary\\repositories\\sqlreviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|solutionrelative:corelibarary\\repositories\\sqlreviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\kusinskiy_timophey\\bookings.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|solutionrelative:kusinskiy_timophey\\bookings.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502CED8-D2FB-45C7-916B-8B6A5C4979FB}|Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj|d:\\timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u043A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043E\u043E\u043F\\kusinskiy_timophey\\kusinskiy_timophey\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA642-6C6C-4908-AEA5-4BB7AACD91C5}|CoreLibarary\\CoreLibarary.csproj|d:\\timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u043A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043E\u043E\u043F\\kusinskiy_timophey\\corelibarary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "info.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\info.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\info.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\info.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\info.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:43:37.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\packages.config",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\packages.config",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\packages.config",
+              "RelativeToolTip": "Kusinskiy_Timophey\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-19T13:43:33.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kusinskiy_Timophey\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxkAAAAvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-19T13:42:37.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Registration.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Registration.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Registration.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Users.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Users.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Users.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Users.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.xaml.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\LoginForm.xaml.cs",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\LoginForm.xaml.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\LoginForm.xaml.cs",
+              "RelativeToolTip": "Kusinskiy_Timophey\\LoginForm.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBgAAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-19T13:42:36.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Interfaces\\IUsersService.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "CoreLibarary\\Interfaces\\IUsersService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLMenuRepository.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLMenuRepository.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Repositories\\SQLMenuRepository.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLMenuRepository.cs",
+              "RelativeToolTip": "CoreLibarary\\Repositories\\SQLMenuRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAASwEcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:36.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLUsersRepository.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLUsersRepository.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Repositories\\SQLUsersRepository.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLUsersRepository.cs",
+              "RelativeToolTip": "CoreLibarary\\Repositories\\SQLUsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kusinskiy_Timophey",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Kusinskiy_Timophey.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-05-24T23:28:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreLibarary",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\CoreLibarary.csproj",
+              "RelativeDocumentMoniker": "CoreLibarary\\CoreLibarary.csproj",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\CoreLibarary.csproj",
+              "RelativeToolTip": "CoreLibarary\\CoreLibarary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-05-29T19:16:16.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Services\\UsersService.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\UsersService.cs",
+              "RelativeToolTip": "CoreLibarary\\Services\\UsersService.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAASwJUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:36.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\LoginForm.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\LoginForm.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\LoginForm.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\LoginForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:36.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Interfaces\\IUsersRepository.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IUsersRepository.cs",
+              "RelativeToolTip": "CoreLibarary\\Interfaces\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:36.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Registration.xaml.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Registration.xaml.cs",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Registration.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwDMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-19T13:42:36.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\App.xaml.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\App.xaml.cs",
+              "RelativeToolTip": "Kusinskiy_Timophey\\App.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCkAAAArAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-19T13:42:37.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\App.config",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\App.config",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\App.config",
+              "RelativeToolTip": "Kusinskiy_Timophey\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFlSURBVDhPpZO9qsJAEIWPqyaFjQha2MUHsNDK1p/eRgsbg1Z2UfAx/AEfwVIb8TksfAGxSBAFJY2FpBiddQ1XvOBe7gfLsgfmMJM5wX\u002BJqBu9Xo/O57N6fWKaJvr9PgqFQljDhI9ms0mTyUS9PuHieDyOwWCAYrEY1gl1axEEAcbjMTabDSnpbwYMm0ynU1yvV2kSk6oGP8fjcV6EHcxmMySTSSQSCUSjUaV\u002BRxqcTid6fESUSiU5o2EY2ibieDxSJpOJcAdcNJ/PZTe8Nh1Eq9XCdrulfD4fqdVqUlyv17ILHQSHx7ZtDIdDWiwWT1HoL0fU63X4vo/lcqmkx2piMVwuFxmcbwjHcdDpdJBOp\u002BXJZrM4HA6yq9vtpmXyhuu6VK1WybIsKpfLtN/vibfkeV54OPavIL39GC/YpN1uY7fbIZfLYbVaodvtguiZ4FQqhdFoxJn5tV7CJpVKhRqNRpj7T4A7TASPsDpkW/8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-19T13:42:37.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\App.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\App.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\App.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Models\\User.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Models\\User.cs",
+              "RelativeToolTip": "CoreLibarary\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Menu.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Menu.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Menu.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBookingsService.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IBookingsService.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Interfaces\\IBookingsService.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IBookingsService.cs",
+              "RelativeToolTip": "CoreLibarary\\Interfaces\\IBookingsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Models\\Booking.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Models\\Booking.cs",
+              "RelativeToolTip": "CoreLibarary\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Reviews.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Reviews.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Reviews.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Reviews.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Reviews.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Menu.xaml.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Menu.xaml.cs",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Menu.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-19T13:42:37.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SQLBookingsRepository.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLBookingsRepository.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Repositories\\SQLBookingsRepository.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLBookingsRepository.cs",
+              "RelativeToolTip": "CoreLibarary\\Repositories\\SQLBookingsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Brushes.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Resourses\\Brushes.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Resourses\\Brushes.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Resourses\\Brushes.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Resourses\\Brushes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBookingsRepository.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IBookingsRepository.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Interfaces\\IBookingsRepository.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IBookingsRepository.cs",
+              "RelativeToolTip": "CoreLibarary\\Interfaces\\IBookingsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\MainWindow.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\MainWindow.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Core.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Resourses\\Core.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Resourses\\Core.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Resourses\\Core.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Resourses\\Core.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Bookings.xaml",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Bookings.xaml",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Bookings.xaml",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Bookings.xaml",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Bookings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:42:37.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Interfaces\\IMenuRepository.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Interfaces\\IMenuRepository.cs",
+              "RelativeToolTip": "CoreLibarary\\Interfaces\\IMenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Services\\MenuService.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\MenuService.cs",
+              "RelativeToolTip": "CoreLibarary\\Services\\MenuService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookingsService.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\BookingsService.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Services\\BookingsService.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\BookingsService.cs",
+              "RelativeToolTip": "CoreLibarary\\Services\\BookingsService.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReviewsService.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\ReviewsService.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Services\\ReviewsService.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Services\\ReviewsService.cs",
+              "RelativeToolTip": "CoreLibarary\\Services\\ReviewsService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SQLReviewsRepository.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLReviewsRepository.cs",
+              "RelativeDocumentMoniker": "CoreLibarary\\Repositories\\SQLReviewsRepository.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\CoreLibarary\\Repositories\\SQLReviewsRepository.cs",
+              "RelativeToolTip": "CoreLibarary\\Repositories\\SQLReviewsRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:42:37.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Bookings.xaml.cs",
+              "DocumentMoniker": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Bookings.xaml.cs",
+              "RelativeDocumentMoniker": "Kusinskiy_Timophey\\Bookings.xaml.cs",
+              "ToolTip": "D:\\Timaphey\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430 \u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043E\u043A\\\u041A\u0443\u0440\u0441\u043E\u0432\u044B\u0435\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041E\u041E\u041F\\Kusinskiy_Timophey\\Kusinskiy_Timophey\\Bookings.xaml.cs",
+              "RelativeToolTip": "Kusinskiy_Timophey\\Bookings.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowGYAAAAZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-19T13:42:37.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
